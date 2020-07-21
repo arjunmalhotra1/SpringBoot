@@ -1,0 +1,2 @@
+This Repository has projects that are associated with SpringBoot.
+Particularly, this repository has spring-boot-demo, dev-tools-demo, actuator-demo, jpa-cruddemo, Spring-data-jpa-cruddemo and Spring-data-rest-cruddemo
